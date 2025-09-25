@@ -28,11 +28,13 @@ This analysis reviews sales performance over the course of the year, identifying
 ![Description of image](images/heatmap.png)
 
 
-
-
 #### Product Performance
   - Most Popular Pizzas: Thai Chicken and Barbecue Chicken consistently drove the highest revenue.
   - Least Popular Pizza: Caree Pizza contributed the least, indicating potential low demand or insufficient promotion.
+
+![Description of image](images/popular_bar_charts.png)
+
+
 
 Recommendations
 
