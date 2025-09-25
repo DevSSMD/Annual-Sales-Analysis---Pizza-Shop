@@ -19,6 +19,11 @@ This analysis reviews sales performance over the course of the year, identifying
   - October → September formed a valley, indicating a period of relatively lower revenue within the year.
   - July marked the peak revenue month, possibly due to seasonal demand or specific promotions.
 
+
+
+
+
+
 #### Daily & Hourly Patterns:
   - Highest sales occur during weekday lunch hours (noon – 1 PM), suggesting a strong lunch customer base.
   - Consistently low sales at 7 PM indicate an opportunity to boost evening revenue, perhaps through targeted promotions or bundled offers.
