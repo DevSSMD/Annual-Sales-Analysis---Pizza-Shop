@@ -1,7 +1,9 @@
 # Pizza Sales Analysis Report
 
-![Description of image](images/pizza_sales_db.png)
 
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/RestaurantSales_17585712149890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Description of image](images/pizza_sales_db.png)
 
 
 ### Executive Summary
