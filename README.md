@@ -25,7 +25,7 @@ This analysis reviews sales performance over the course of the year, identifying
   - Highest sales occur during weekday lunch hours (noon – 1 PM), suggesting a strong lunch customer base.
   - Consistently low sales at 7 PM indicate an opportunity to boost evening revenue, perhaps through targeted promotions or bundled offers.
 
-![Description of image](images/heatmap.jpeg)
+![Description of image](images/by.jpeg)
 
 
 
