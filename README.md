@@ -1,5 +1,9 @@
 # Pizza Sales Analysis Report
 
+![Description of image](images/pizza_sales_db.png)
+
+
+
 ### Executive Summary
 This analysis reviews sales performance over the course of the year, identifying key trends in revenue, top-performing products, and peak sales times. Overall, revenue fluctuated throughout the year, with noticeable __declines from January to February and July to August__. July was the highest revenue month, reaching $73,000. Understanding these trends, peak hours, and product performance can help guide marketing, promotions, and operational decisions.
 
@@ -29,8 +33,8 @@ This analysis reviews sales performance over the course of the year, identifying
 
 
 #### Product Performance
-  - Most Popular Pizzas: Thai Chicken and Barbecue Chicken consistently drove the highest revenue.
-  - Least Popular Pizza: Caree Pizza contributed the least, indicating potential low demand or insufficient promotion.
+  - Most Popular Pizzas: Thai-Chicken and Barbecue-Chicken consistently drove the highest revenue.
+  - Least Popular Pizza: Brie-Carre Pizza contributed the least, indicating potential low demand or insufficient promotion.
 
 ![Description of image](images/popular_bar_charts.png)
 
